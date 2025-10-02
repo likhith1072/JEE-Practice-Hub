@@ -14,8 +14,6 @@ A modern, interactive web application built with Next.js for JEE (Joint Entrance
 
 ## 🌐 Live Demo
 
-- Check out the live application: **[JEE Practice Hub](https://jee-practice-hub.vercel.app/)
-**
 - **Live Deployed Link**: https://jee-practice-hub.vercel.app/
 
 ## 🛠️ Tech Stack
