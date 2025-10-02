@@ -8,9 +8,3 @@ export interface Question {
   explanation: string;
 }
 
-export interface AnswerState {
-  [key: number]: {
-    selectedAnswer: number;
-    isCorrect: boolean;
-  };
-}

@@ -2,7 +2,7 @@
 import QuestionCard from '@/components/QuestionCard';
 import questionsData from '@/data/questions.json';
 import { Question } from '@/types';
-import { ArrowUp, CircleCheck } from 'lucide-react';
+import { ArrowUp } from 'lucide-react';
 
 export default function Dashboard() {
   const questions: Question[] = questionsData;
