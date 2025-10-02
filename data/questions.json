@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "question": "A ball is thrown vertically upward with a velocity of 20 m/s. What is the maximum height reached by the ball? (g = 10 m/s²)",
+    "options": [
+      "10 m",
+      "20 m",
+      "30 m",
+      "40 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using the equation v² = u² - 2gh, at maximum height v = 0. Substituting values: 0 = (20)² - 2(10)h, which gives 0 = 400 - 20h, therefore h = 20m."
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "Which of the following is the correct IUPAC name for CH₃-CH₂-CH(CH₃)-CH₃?",
+    "options": [
+      "2-methylbutane",
+      "3-methylbutane",
+      "Isopentane",
+      "n-pentane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The longest carbon chain has 4 carbons (butane as the parent chain), and the methyl group is attached to the 2nd carbon when numbered from the end giving the lowest number, making it 2-methylbutane."
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "question": "What is the derivative of f(x) = x³ + 2x² - 5x + 7?",
+    "options": [
+      "3x² + 4x - 5",
+      "3x² + 2x - 5",
+      "x³ + 4x - 5",
+      "3x² + 4x + 7"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using the power rule for differentiation: d/dx(x³) = 3x², d/dx(2x²) = 4x, d/dx(-5x) = -5, and d/dx(7) = 0. Therefore, f'(x) = 3x² + 4x - 5."
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "question": "The SI unit of electric field is:",
+    "options": [
+      "Newton/Coulomb",
+      "Volt/meter",
+      "Both A and B",
+      "Joule/Coulomb"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Electric field can be expressed as N/C (force per unit charge) or V/m (potential gradient). Since 1 Volt = 1 Joule/Coulomb and force = charge × field, both units are dimensionally equivalent and correct."
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "Which molecule has a linear shape?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "NH₃",
+      "CH₄"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CO₂ has sp hybridization with a 180° bond angle, making it linear. H₂O is bent (104.5°) due to two lone pairs, NH₃ is trigonal pyramidal (107°), and CH₄ is tetrahedral (109.5°)."
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question": "A fair die is rolled twice. What is the probability of getting a sum of 7?",
+    "options": [
+      "1/6",
+      "1/9",
+      "5/36",
+      "7/36"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Favorable outcomes that sum to 7 are: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 outcomes. Total possible outcomes when rolling twice = 6 × 6 = 36. Probability = 6/36 = 1/6."
+  }
+]
