@@ -120,7 +120,7 @@ export default function Dashboard() {
               Great job! 🎉
             </h3>
             <p className="text-gray-600 mb-4">
-              You've reached the end of this practice set. Keep practicing to improve your skills!
+              You&apos;ve reached the end of this practice set. Keep practicing to improve your skills!
             </p>
             <button 
               onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}

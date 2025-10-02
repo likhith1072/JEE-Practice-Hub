@@ -24,7 +24,7 @@ export default function Hero() {
           </p>
 
           <p className="text-lg text-indigo-200 mb-12 max-w-2xl mx-auto">
-            Get instant feedback, detailed explanations, and track your progress as you prepare for India's most challenging engineering entrance exam.
+            Get instant feedback, detailed explanations, and track your progress as you prepare for India&apos;s most challenging engineering entrance exam.
           </p>
 
           {/* CTA Button */}
